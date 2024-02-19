@@ -1,22 +1,20 @@
 html{
-  font-size: 100%;
+  font-size: 20px;
 }
 h1{
-  font-family: "Arial","Meiryo",sans-serif;
+  font-family: "Josefin Sans",sans-serif;
   font-size: 2rem;
   font-weight: normal;
   text-align: center;
   letter-spacing: 1.2em;
-  border-bottom: rgb(255,192,203);
-  border-bottom: rgb(115,115,114);
-  border-bottom: 3px solid black;
+  border-bottom: solid 3px rgb(115, 115, 114);
   text-shadow: 3px 3px 5px grey;
 }
 .skyblue{
   color:skyblue;
 }
 .pink{
-  color: pink;
+  color:rgb(255, 192, 203)
 }
 h2{
   text-align: center;
@@ -30,5 +28,5 @@ p{
   font-weight: bold;
 }
 body{
-  font-family: "Arial", "Meiryo", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
 }
