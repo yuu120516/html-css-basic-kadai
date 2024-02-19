@@ -23,7 +23,7 @@ h2{
 p{
   text-align: center;
 }
-.parent{
+.parent p{
   font-weight: bold;
 }
 body{
